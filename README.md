@@ -24,6 +24,13 @@ or write me directly on dlbolshov@gmail.com
 <img align="left" alt="postgresql" width="47px" src="icons/postgresql.svg" />
 <img align="left" alt="git" width="47px" src="icons/git.svg" />
 
+<br>
+ 
+<br>
+ 
+<br>
+
+[![codewars](https://www.codewars.com/users/dlbolshov/badges/large)](https://www.codewars.com/users/dlbolshov)
 
 [linkedin]: https://www.linkedin.com/in/davidbolshov/
 [instagram]: https://www.instagram.com/davidbolshov/
