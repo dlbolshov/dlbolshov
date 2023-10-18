@@ -1,6 +1,6 @@
 <h1 align="center">Hello, everybody, I'm David Bolshov
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">junior Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 🔭 I’m interested in machine learning in all its forms
 
 ### Connect with me:
